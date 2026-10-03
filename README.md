@@ -10,13 +10,14 @@ other character, then play locally or on Slippi Online.
 
 You need **Slippi** and a clean **NTSC v1.02** Melee ISO.
 
-1. Download `BuildAMelee-v0.1.0.zip` from the [Releases](../../releases/latest) page and unzip it.
+1. Download the `.zip` from the [latest release](../../releases/latest) and unzip it.
 2. **Windows:** drag your Melee ISO onto `DRAG VANILLA MELEE HERE.bat`.
    **Linux/Mac:** `./patch_linux_mac.sh "path/to/Melee 1.02.iso"` (needs `xdelta3`).
 3. This creates `BuildAMelee.iso` in the same folder. Set it as your Melee ISO
    in the Slippi Launcher settings.
 
-To play online, both players need the same BuildAMelee version.
+To play online, both players need the same BuildAMelee version. The version
+is shown in the bottom-left corner of the character select screen (1.1 and later).
 
 ## Controls
 
