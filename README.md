@@ -1,4 +1,4 @@
-# BuildAMelee
+# Melee Maker
 
 Build your own fighter in Super Smash Bros. Melee: put any character's
 specials, aerials, jab, dash attack, tilts, smash attacks and throws on any
