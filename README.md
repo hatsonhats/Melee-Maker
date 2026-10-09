@@ -6,6 +6,8 @@ other character, then play locally or on Slippi Online.
 
 https://youtu.be/OTISApM0g88?si=uny6zhEeD--oX1FH
 
+development repo: https://github.com/hatsonhats/BuildAMelee-dev
+
 ## [Download the latest release](../../releases/latest)
 
 ## Install
