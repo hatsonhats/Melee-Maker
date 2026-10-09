@@ -4,6 +4,8 @@ Build your own fighter in Super Smash Bros. Melee: put any character's
 specials, aerials, jab, dash attack, tilts, smash attacks and throws on any
 other character, then play locally or on Slippi Online.
 
+https://youtu.be/OTISApM0g88?si=uny6zhEeD--oX1FH
+
 ## [Download the latest release](../../releases/latest)
 
 ## Install
