@@ -6,7 +6,7 @@ other character, then play locally or on Slippi Online. Also works in Training m
 
 https://youtu.be/OTISApM0g88?si=uny6zhEeD--oX1FH
 
-development repo: [https://github.com/hatsonhats/BuildAMelee-dev](https://github.com/hatsonhats/MeleeMaker-dev)
+development repo: [https://github.com/hatsonhats/MeleeMaker-dev](https://github.com/hatsonhats/MeleeMaker-dev)
 
 ## [Download the latest release](../../releases/latest)
 
