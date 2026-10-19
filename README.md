@@ -2,8 +2,9 @@
 
 **Build your own fighter in Super Smash Bros. Melee.** Put any character's specials, aerials, ground attacks and throws on any other character, then play it locally, in Training mode, or on Slippi Online.
 
-Video:
-[![Melee Maker trailer](https://img.youtube.com/vi/OTISApM0g88/maxresdefault.jpg)](https://youtu.be/OTISApM0g88)
+### ▶ [Watch the trailer on YouTube](https://youtu.be/OTISApM0g88)
+
+[![Melee Maker trailer: click to watch on YouTube](https://img.youtube.com/vi/OTISApM0g88/maxresdefault.jpg)](https://youtu.be/OTISApM0g88)
 
 ### [⬇ Download the latest release](../../releases/latest)
 
