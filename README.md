@@ -1,6 +1,10 @@
+
+
 # Melee Maker
 
 **Build your own fighter in Super Smash Bros. Melee.** Put any character's specials, aerials, ground attacks and throws on any other character, then play it locally, in Training mode, or on Slippi Online.
+
+<img width="1591" height="1301" alt="image" src="https://github.com/user-attachments/assets/c40b5fc7-1c73-4bc8-9b1b-97cdc759a297" />
 
 ### ▶ [Watch the trailer on YouTube](https://youtu.be/OTISApM0g88)
 
@@ -11,6 +15,7 @@
 ---
 
 ## What you can build
+<img width="1591" height="1301" alt="image" src="https://github.com/user-attachments/assets/dcd20754-0d2d-4f14-908e-8f593854ad76" />
 
 Every character has **21 slots**, and each one can hold another character's move:
 
@@ -50,6 +55,8 @@ On the character select screen, pick a character and press **Z** to open the bui
 ### Saving and sharing builds
 
 The **Saved** tab holds 3 builds on your memory card, plus your build's **share code**.
+
+<img width="1596" height="1302" alt="image" src="https://github.com/user-attachments/assets/2477c949-c82a-4123-a316-485d68ca512b" />
 
 - **A** loads a saved build (or saves into an empty slot), **X** saves, **Y** deletes.
 - Select the code and press **A** to type in someone else's code.
